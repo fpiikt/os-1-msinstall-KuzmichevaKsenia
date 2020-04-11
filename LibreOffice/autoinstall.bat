@@ -1,0 +1,2 @@
+msiexec /i LibreOffice_6.4.2_Win_x64.msi /passive /norestart /le libreoffice-install-log.txt
+msiexec /i LibreOffice_6.4.2_Win_x64_helppack_ru.msi /passive /forcerestart /le+ libreoffice-install-log.txt

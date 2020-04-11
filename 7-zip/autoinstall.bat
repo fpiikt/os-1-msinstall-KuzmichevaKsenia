@@ -1,0 +1,1 @@
+msiexec /i 7z1900-x64.msi /passive /norestart /le 7zip-log.txt TARGETDIR="C:\Program Files\7-Zip"

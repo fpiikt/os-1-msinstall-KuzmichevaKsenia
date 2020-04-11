@@ -1,0 +1,1 @@
+msiexec /i inkscape-0.92.4-x64.msi /qr /norestart /le inkscape-log.txt INSTALLDIR="C:\Program Files\Graphics\Inkscape"
